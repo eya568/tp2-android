@@ -137,7 +137,7 @@ fun lemonDisplay(
         Box(
             modifier = Modifier
                 .wrapContentSize()
-                .background(Color(105, 205, 205), shape = RoundedCornerShape(8.dp))
+                .background(Color(105, 205, 216), shape = RoundedCornerShape(8.dp))
                 .border(
                     BorderStroke(2.dp, Color(105, 205, 216)),
                     shape = RoundedCornerShape(8.dp)
